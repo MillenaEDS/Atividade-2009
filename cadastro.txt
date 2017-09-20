@@ -1,45 +1,36 @@
-Nome:
-Millena
-Endereço:
-Rua: Moçambique
-CEP: 12345678
-Bairro: Pq. Paraíso
-Estado: SP
-Telefone: 123456789
-
-Nome:
-Daniel
-Endereço:
-Rua: Padre
-CEP: 12345678
-Bairro: Agua Branca
-Estado: SP
-Telefone: 123456789
-
-Nome:
-D
-Endereço:
-Rua: D
-CEP: 2
-Bairro: d
-Estado: d
+Nome: Mi 
+Endereço: ss, 12, ss, ss 
+Telefone: 12
+Nome: da 
+Endereço: ss, 12, ss, ss 
+Telefone: 12
+Nome: Mi 
+Endereço: dd, 23, dd, dd 
+Telefone: 12
+Nome: da 
+Endereço: ss, 22, sss, s 
 Telefone: 2
-
-Nome:
-Mi
-Endereço:
-Rua: r
-CEP: 1
-Bairro: s
-Estado: s
-Telefone: 2
-
-Nome:
-d
-Endereço:
-Rua: d
-CEP: 2
-Bairro: d
-Estado: d
-Telefone: 3
-
+Nome: Mi 
+Endereço: dd, 12, dd, dd 
+Telefone: 22
+Nome: nn 
+Endereço: gg, 22, gg, gg 
+Telefone: 11
+Nome: Mi 
+Endereço: dd, 11, dd, dd 
+Telefone: 12
+Nome: dd 
+Endereço: dd, 12, dd, dd 
+Telefone: 12
+Nome: Mi 
+Endereço: rr, 1, ss, ss 
+Telefone: 11
+Nome: dd 
+Endereço: dd, 22, dd, dd 
+Telefone: 22
+Nome: Mi 
+Endereço: ss, 11, ss, ss 
+Telefone: 22
+Nome: ss 
+Endereço: ss, 22, ss, ss 
+Telefone: 22
